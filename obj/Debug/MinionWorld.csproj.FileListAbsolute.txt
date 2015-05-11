@@ -1,0 +1,18 @@
+c:\users\jovan\documents\visual studio 2015\Projects\MinionWorld\MinionWorld\bin\Debug\MinionWorld.exe.config
+c:\users\jovan\documents\visual studio 2015\Projects\MinionWorld\MinionWorld\bin\Debug\MinionWorld.exe
+c:\users\jovan\documents\visual studio 2015\Projects\MinionWorld\MinionWorld\bin\Debug\MinionWorld.pdb
+c:\users\jovan\documents\visual studio 2015\Projects\MinionWorld\MinionWorld\obj\Debug\MinionWorld.Form1.resources
+c:\users\jovan\documents\visual studio 2015\Projects\MinionWorld\MinionWorld\obj\Debug\MinionWorld.Properties.Resources.resources
+c:\users\jovan\documents\visual studio 2015\Projects\MinionWorld\MinionWorld\obj\Debug\MinionWorld.csproj.GenerateResource.Cache
+c:\users\jovan\documents\visual studio 2015\Projects\MinionWorld\MinionWorld\obj\Debug\MinionWorld.exe
+c:\users\jovan\documents\visual studio 2015\Projects\MinionWorld\MinionWorld\obj\Debug\MinionWorld.pdb
+c:\users\jovan\documents\visual studio 2015\Projects\MinionWorld\MinionWorld\obj\Debug\MinionWorld.csprojResolveAssemblyReference.cache
+C:\Users\Jovan\Desktop\MinionWorld\MinionWorld\bin\Debug\MinionWorld.exe.config
+C:\Users\Jovan\Desktop\MinionWorld\MinionWorld\obj\Debug\MinionWorld.exe
+C:\Users\Jovan\Desktop\MinionWorld\MinionWorld\obj\Debug\MinionWorld.pdb
+C:\Users\Jovan\Desktop\MinionWorld\MinionWorld\bin\Debug\MinionWorld.exe
+C:\Users\Jovan\Desktop\MinionWorld\MinionWorld\bin\Debug\MinionWorld.pdb
+C:\Users\Jovan\Desktop\MinionWorld\MinionWorld\obj\Debug\MinionWorld.csprojResolveAssemblyReference.cache
+C:\Users\Jovan\Desktop\MinionWorld\MinionWorld\obj\Debug\MinionWorld.Form1.resources
+C:\Users\Jovan\Desktop\MinionWorld\MinionWorld\obj\Debug\MinionWorld.Properties.Resources.resources
+C:\Users\Jovan\Desktop\MinionWorld\MinionWorld\obj\Debug\MinionWorld.csproj.GenerateResource.Cache
