@@ -1,4 +1,4 @@
-Напомена: По симнување на проектот сите фајлови освен **MinionWorld.sln.ide** и **MinionWorld.sln** поставете ги во фолдерот MinionWorld !
+Напомена: По симнување на проектот сите фајлови освен **MinionWorld.sln.ide** и **MinionWorld.sln** поставете ги во фолдерот **MinionWorld** !
 
 #**MINION WORLD**
 
