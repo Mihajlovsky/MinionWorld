@@ -1,6 +1,6 @@
 ####Напомена: 
 По симнување на проектот сите фајлови освен **MinionWorld.sln.ide** и **MinionWorld.sln** поставете ги во фолдерот **MinionWorld**!
-![Alt text](http://s23.postimg.org/n9gih07m3/instructions.png )
+![Alt text](http://s16.postimg.org/qclk6vnkl/instructions.png )
 
 
 #**MINION WORLD**
